@@ -1,0 +1,23 @@
+[
+    {
+      "id":123,
+      "name":"REMERA ESSENTIALS",
+      "price":15000,
+      "description":"remeras",
+      "image":"./img/Remera.jpg"
+    },
+    {
+      "id":456,
+      "name":"BUZO ESSENTIALS",
+      "price":20000,
+      "description":"buzos",
+      "image":"img/Buzo.jpg"
+    },
+    {
+      "id":789,
+      "name":"PANTALON ESSENTIALS",
+      "price":19000,
+      "description":"pantalones",
+      "image":"img/Pantalon.jpg"
+    }
+]
